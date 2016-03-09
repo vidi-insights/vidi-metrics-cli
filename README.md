@@ -44,7 +44,7 @@ Licensed under [MIT][].
 
 
 [Banner]: https://raw.githubusercontent.com/vidi-insights/org/master/assets/vidi-banner.png
-[Lead]: https://github.com/KristinaMatuleviciute
+[Lead]: https://github.com/CodeWriterWriter
 [Sponsor]: http://www.nearform.com/
 [CoC]: ./CoC.md
 [MIT]: ./LICENSE
