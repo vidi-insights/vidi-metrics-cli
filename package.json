@@ -1,0 +1,20 @@
+{
+  "name": "vidi-metrics-cli",
+  "version": "0.0.1",
+  "description": "command-line tool for vidi-metrics-emitter",
+  "main": "vidi-metrics-cli.js",
+  "bin": {
+    "emit": "./vidi-metrics-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidi-insights/vidi-metrics-cli.git"
+  },
+  "author": "Jane Quinn",
+  "homepage": "https://github.com/vidi-insights/vidi-metrics-cli#readme",
+  "dependencies": {
+    "vidi-metrics-emitter": "github:vidi-insights/vidi-metrics-emitter",
+    "minimist": "*"
+  }
+
+}
