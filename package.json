@@ -14,7 +14,9 @@
   "homepage": "https://github.com/vidi-insights/vidi-metrics-cli#readme",
   "dependencies": {
     "vidi-metrics-emitter": "github:vidi-insights/vidi-metrics-emitter",
-    "minimist": "*"
+    "minimist": "*",
+    "jsonic": "*",
+    "is-json": "*"
   }
 
 }
