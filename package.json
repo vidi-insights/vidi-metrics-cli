@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/vidi-insights/vidi-metrics-cli.git"
   },
+  "scripts": {
+    "demo": "node vidi-metrics-cli.js 'name:yourName' "
+  },
   "author": "Jane Quinn",
   "homepage": "https://github.com/vidi-insights/vidi-metrics-cli#readme",
   "dependencies": {
