@@ -30,7 +30,7 @@ npm run start
 ```
 
 ## Contributing
-The [nearForm][Org] encourages __open__ and __safe__ participation.
+The [nearForm][Org] organization encourages __open__ and __safe__ participation.
 
 - [Code of Conduct][CoC]
 
@@ -46,5 +46,6 @@ Licensed under [MIT][].
 [Banner]: https://raw.githubusercontent.com/vidi-insights/org/master/assets/vidi-banner.png
 [Lead]: https://github.com/CodeWriterWriter
 [Sponsor]: http://www.nearform.com/
+[Org]: https://github.com/nearform
 [CoC]: ./CoC.md
 [MIT]: ./LICENSE
