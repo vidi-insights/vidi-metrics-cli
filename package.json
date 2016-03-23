@@ -16,7 +16,8 @@
     "vidi-metrics-emitter": "github:vidi-insights/vidi-metrics-emitter",
     "minimist": "1.2.0",
     "jsonic": "0.2.2",
-    "is-json": "2.0.0"
-  }
+    "is-json": "2.0.0",
+    "readline-sync": "1.4.1"
+    }
 
 }
