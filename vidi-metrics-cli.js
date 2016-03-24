@@ -45,7 +45,8 @@ if(input == null) {
   }
   localJson = {}
   for (var i = 0; i < tagsArray.length; i++) {
-    json[tagsArray[i].substring(0,tagsArray[i].indexOf(":"))] = tagsArray[i].substring(tagsArray[i].indexOf(":")+1, tagsArray[i].length)
+    localJson[tagsArray[i].substring(0,tagsArray[i].indexOf(":"))] = tagsArray[i].substring(tagsArray[i].indexOf(":")+1, tagsArray[i].length)
+    json.tags = localJson
   }
   var emit = Emitter()
   emit.emit(json)
